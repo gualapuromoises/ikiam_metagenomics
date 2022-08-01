@@ -2,7 +2,7 @@
 
 # Curso 2022: Análisis avanzado de metagenomas. Creando tus flujos de análisis con R/Bioconductor.
 
-## 01-05 de septiembre de 2022
+## Lunes 05 - Viernes 09 de septiembre de 2022
 
 Bienvenidos al Workshop Análisis avanzado de metagenomas. Creando tus flujos de análisis con R/Bioconductor.! 
 
