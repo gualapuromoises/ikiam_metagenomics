@@ -1,0 +1,29 @@
+---
+title: 'D1: Generación de RMarkdown'
+author: "Moisés Gualapuro"
+date: "2022-08-01"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library("rmarkdown"); library("usethis"); library("remotes")
+library("bookdown"); library("xaringan"); library("devtools")
+```
+
+##cIniciando 
+
+```{r cars}
+summary(iris)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(mtcars)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent
+printing of the R code that generated the plot.

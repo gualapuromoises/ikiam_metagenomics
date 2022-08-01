@@ -21,20 +21,14 @@ Todas las sesiones serán teóricas y prácticas. Nos enfocaremos en tres temas 
 
 ## Instructores
 
-- [Dra. Mirna Vázquez Rosas-Landa](https://comunidadbioinfo.github.io/es/authors/mirnavrl/)
-- [Dra. Joselyn Chávez](https://comunidadbioinfo.github.io/es/authors/josschavezf/)
-- [Dra. Yalbi Balderas Martínez](https://comunidadbioinfo.github.io/es/authors/yalbibalderas/)
-- [Dra. Alejandra Medina-Rivera](https://comunidadbioinfo.github.io/es/authors/amedina/)
-- [M.C. Erick Cuevas-Fernández](https://comunidadbioinfo.github.io/es/authors/erickcufe/)
-
-
+- [Moises Gualapuro](https://comunidadbioinfo.github.io/es/authors/mirnavrl/)
+- [Yeimy Rojas](https://comunidadbioinfo.github.io/es/authors/josschavezf/)
 
 
 ## Ponentes invitados
 
-- [Dr. Leonardo Collado](https://lcolladotor.github.io/es/)
-- [Dr. Brett Baker](https://comunidadbioinfo.github.io/es/authors/brettbaker/)
-- [Dra. Valerie de Anda](https://comunidadbioinfo.github.io/es/authors/valeriedeanda/)
+- [Dr. Mauricio Ortega](https://lcolladotor.github.io/es/)
+- [Dr. Jonathan Liria](https://comunidadbioinfo.github.io/es/authors/valeriedeanda/)
 
 ## Temario 
 
