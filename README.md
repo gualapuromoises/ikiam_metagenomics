@@ -1,4 +1,4 @@
-![](img/logo.png)
+![](https://www.ikiam.edu.ec/img/logo-ikiam-grey.png)
 
 # Workshop CDSB 2022: Análisis avanzado de metagenomas. Creando tus flujos de análisis con R/Bioconductor.
 
