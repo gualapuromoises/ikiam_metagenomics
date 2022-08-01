@@ -1,8 +1,8 @@
 ![](https://www.ikiam.edu.ec/img/logo-ikiam-grey.png)
 
-# Workshop CDSB 2022: Análisis avanzado de metagenomas. Creando tus flujos de análisis con R/Bioconductor.
+# Curso 2022: Análisis avanzado de metagenomas. Creando tus flujos de análisis con R/Bioconductor.
 
-## 01-05 de agosto de 2022
+## 01-05 de septiembre de 2022
 
 Bienvenidos al Workshop Análisis avanzado de metagenomas. Creando tus flujos de análisis con R/Bioconductor.! 
 
