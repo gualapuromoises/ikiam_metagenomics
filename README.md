@@ -34,42 +34,42 @@ Todas las sesiones serán teóricas y prácticas. Nos enfocaremos en tres temas 
 
 Consulta el calendario de este curso en: <http://bit.ly/calendarcdsb2022>
 
-### Lunes 01 de agosto. Generando Reportes y flujos de trabajo con R markdown
+### Lunes 05 de septiembre. Generando Reportes y flujos de trabajo con R markdown
 
 | Horario     | Tema                                      | Instructor             |
 |-------------|-------------------------------------------|------------------------|
 | 09:00-10:00 | Bienvenida                                | CDSB                   | 
-| 10:00-11:00 | Presentación CDSB                         | Joselyn Chávez, Erick Cuevas |
-| 11:00-12:00 | Keynote: La última versión del árbol de la vida | Brett Baker         |
-| 12:00-14:00 | Control de versiones con GitHub y RStudio   | Alejandra Medina        |
-| 15:00-17:00 | Generación de Reportes con R markdown              | Joselyn Chávez, Erick Cuevas |
+| 10:00-11:00 | Presentación CDSB                         | Moises Gualapuro |
+| 11:00-12:00 | Keynote: La última versión del árbol de la vida | Muricio Ortega         |
+| 12:00-14:00 | Control de versiones con GitHub y RStudio   | Moises Gualapuro        |
+| 15:00-17:00 | Generación de Reportes con R markdown              | Moises Gualapuro |
 
-### Martes 02 de agosto. Reconstrucción de Genomas.
+### Martes 06 de septiembre. Reconstrucción de Genomas.
 
 | Horario     | Tema                                              | Instructor                        |
 |-------------|---------------------------------------------------|-----------------------------------|
-| 9:00-10:00  | Keynote: Convertir tu flujo de análisis en un paquete R/Bioconductor.| Leonardo Collado         |
-| 10:00-13:00 | Reconstrucción de genomas. Parte I                |   Yalbi Balderas y Mirna Vázquez       |
-| 13:00-14:00 | Keynote: Paquetes de bioconductor relacionados con la metagenómica.  |  Yalbi Balderas   |
-| 17:00-14:00 | Reconstrucción de genomas. Parte II               |   Yalbi Balderas y Mirna Vázquez      |
+| 9:00-10:00  | Keynote: Convertir tu flujo de análisis en un paquete R/Bioconductor.| Moises Gualapuro         |
+| 10:00-13:00 | Reconstrucción de genomas. Parte I                |   Moises Gualapuro       |
+| 13:00-14:00 | Keynote: Paquetes de bioconductor relacionados con la metagenómica.  |  Moises Gualapuro   |
+| 17:00-14:00 | Reconstrucción de genomas. Parte II               |   Moises Gualapuro      |
 
-### Miércoles 03 de agosto. Reconstrucción metabólica e inferencia filogenética
+### Miércoles 07 de septiembre. Reconstrucción metabólica e inferencia filogenética
 
 | Horario     | Tema                                                | Instructor              |
 |-------------|-----------------------------------------------------|-------------------------|
-| 9:00-10:30  | Asignación taxonómica                               |     Yalbi Balderas y Mirna Vázquez      |
-| 11:30-13:30 | Análisis de vías metabólicas                        |    Yalbi Balderas y Mirna Vázquez       |
-| 13:30-14:00 |      Construyendo Comunidad                         |    CDSB                 |
-| 15:00-17:00 | MEBs (Multigenomic Entropy Based Score pipeline )   |     Valerie de Anda     |
+| 9:00-10:30  | Asignación taxonómica                               |     Moises Gualapuro      |
+| 11:30-13:30 | Análisis de vías metabólicas                        |    Moises Gualapuro       |
+| 13:30-14:00 |      Construyendo Comunidad                         |    Moises Gualapuro   |
+| 15:00-17:00 | MEBs (Multigenomic Entropy Based Score pipeline )   |     Moises Gualapuro     |
 
-### Jueves 04 de agosto. Proyectos colaborativos de metagenomas.
+### Jueves 08  de septiembre. Proyectos colaborativos de metagenomas.
 
 | Horario     | Tema                                            | Instructor                                              |
 |-------------|-------------------------------------------------|---------------------------------------------------------|
 | 9:00-14:00  | Proyecto colaborativo. Parte I                  |  |
 | 15:00-17:00 | Proyecto colaborativo. Parte II                 |  |
 
-### Viernes 05 de agosto. Proyectos colaborativos de metagenomas.
+### Viernes 09 de septiembre. Proyectos colaborativos de metagenomas.
 
 | Horario     | Tema                                            | Instructor                                              |
 |-------------|-------------------------------------------------|---------------------------------------------------------|
