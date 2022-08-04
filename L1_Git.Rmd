@@ -14,7 +14,9 @@ library("bookdown"); library("xaringan"); library("devtools")
 ##cIniciando 
 
 ```{r cars}
-summary(iris)
+library(leaflet)
+leaflet() %>% addTiles() %>% setView(-78.0382679, -1.3489054, zoom = 10)
+
 ```
 
 ## Including Plots

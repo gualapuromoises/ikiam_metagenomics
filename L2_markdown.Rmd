@@ -1,0 +1,55 @@
+---
+title: "L2_Rmarkdown"
+author: "Moisés Gualapuro"
+date: "2022-08-01"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Revisiónd e Rmarkdown
+A continuación se revisa lo que se 
+
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+| Dijo el loco, y con noble melancolía
+| por las breñas del monte siguió trepando,
+| y al perderse en las sombras, aún repetía:
+| «¡Hay que vivir sembrando! ¡Siempre sembrando!...»
+|    Rafel Blanco Belmonte
+
+# Temas del curso
+
+-   Evolución y diversidad
+
+-   Control de la versión Git
+
+-   Rmarkdown y reportes
+
+## Días del curso
+
+1.  Lunes
+2.  Martes
+3.  Miércoles
+4.  Jueves
+5.  Viernes
+
+Seleccione los keyword de su estudio
+
+-   [ ] Mosquitoes
+
+-   [ ] Virus del Dengue
+
+-   [ ] Enfermedades tropicales
+
+-   [ ] Garrapatas
+
+## Frases populares
+
+| **Del Ecuador**
+| [x] "Si el río suena, piedras trae"
+| [x] "Mas vale pájaro en mano que cientos volando"
+| [x] "Perro que `ladra` no muerde"
